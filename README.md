@@ -70,5 +70,6 @@
 
 #### 참조
 
++ 공직선거법 189조, 국가법령정보센터: https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B3%B5%EC%A7%81%EC%84%A0%EA%B1%B0%EB%B2%95/%EC%A0%9C189%EC%A1%B0
 + 준연동형비례대표제, 그게 뭔가요?, 중앙선거관리위원회: https://www.nec.go.kr/site/nec/ex/bbs/View.do?cbIdx=1147&bcIdx=17218
 + 셈법 더 복잡해졌다…野 유지한다는 '준연동형 비례제' 뭐길래, 중앙일보: https://www.joongang.co.kr/article/25227020
