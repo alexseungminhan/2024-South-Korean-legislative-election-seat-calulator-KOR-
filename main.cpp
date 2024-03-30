@@ -86,10 +86,4 @@ int main() {
 	example.final_seat_allocation(p_seat);
 	example.print(p_seat);
 
-	/*for (int i = 0;i < p_seat.size();i++) {
-		cout << p_seat[i] << endl;
-	}
-	*/
-
-
 }
