@@ -66,7 +66,7 @@
 
 #### 기타
 
-+ 프로그램 개발 과정: 
++ 프로그램 개발 과정: https://blog.naver.com/motorpoolpmcs/223400134071
 
 #### 참조
 
