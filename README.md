@@ -2,7 +2,7 @@
 
 #### About proportional representation seat calculator (비례대표제 의석수 계산기에 대하여)
 
-+ Aimed to make a program that calculates seats that are elected by proportional representation via the additional member system and largest remainder method. (기존의 병립형 선거제 대신에 제 21대 국회의원 선거부터 도입된 준연동형 비례대표제를 적용하여 각 당의 예상 비례의석수를 산출해내는 프로그램.)
++ Aimed to make a program that calculates seats that are elected by proportional representation via the additional member system and largest remainder method for the 2024 South Korean legislative election. (기존의 병립형 선거제 대신에 제 21대 국회의원 선거부터 도입된 준연동형 비례대표제를 적용하여 각 당의 예상 비례의석수를 산출해내는 프로그램.)
 + Type in each party's constituency seats and proportional votes to calculate the proportional representation seats (각 정당의 예상 지역구 의석수, 비례득표율을 입력받아 비례대표 의석수를 계산함.)
 + Started the project on 29MAR24. (2024년 3월 29일에 이 프로젝트를 시작함.)
 
