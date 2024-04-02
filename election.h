@@ -14,6 +14,7 @@ public:
 	Election();
 
 	void check_if_eligible(vector<float>& c_seat, vector<float>& p_seat);
+	//param c_seat: constituency seats, p_seat: proportional seats
 
 	void vote_percentage(vector<float>& p_seat);
 
