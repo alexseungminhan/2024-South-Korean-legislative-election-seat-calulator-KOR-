@@ -11,7 +11,9 @@ int main() {
 	Election example;
 
 	vector<float> c_seat;
+	//c_seat: constituency seats
 	vector<float> p_seat;
+	//p_seat: proportional seats
 
 	cout << "--------2024 South Korea General Election Seat Calculator--------" << endl;
 
