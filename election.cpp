@@ -18,7 +18,11 @@ void Election::check_if_eligible(vector<float> &c_seat, vector<float> &p_seat) {
 	for (int i = 0;i < 7;i++) {
 		che.push_back(false);
 	}
-
+/* 
+A political party which has obtained at least 3/100 of the total valid votes nationwide 
+in an election of proportional representation or A political party which has won at least five seats 
+in the election of constituency members of the National Assembly is eligible for allocation.
+*/
 	for (int i = 0;i < c_seat.size();i++) {
 		if (c_seat[i] >= 5) che[i] = true;
 	}
