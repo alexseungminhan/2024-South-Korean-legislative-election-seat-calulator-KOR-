@@ -1,4 +1,5 @@
 ## 2024 South Korean legislative election proportional representation seat calculator (대한민국 제22대 국회의원 선거 준연동형 비례대표제 의석수 계산기)
+***
 
 #### About proportional representation seat calculator (비례대표제 의석수 계산기에 대하여)
 
